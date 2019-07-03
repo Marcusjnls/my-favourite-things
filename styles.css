@@ -9,3 +9,20 @@ h2{
     font-family: cursive;
     font-style: italic;
 }
+html{
+  background-color: #99FF99;
+}
+p{
+  font-size: 22px;
+}
+ul{
+  line-height: 20px;
+}
+em{
+  font-weight: bold;
+  font-style: normal;
+}
+strong{
+  font-style: italic;
+  font-weight: normal;
+}
